@@ -1,0 +1,114 @@
+body{
+    background-color: #8d6f95;
+    padding: 0;
+    margin: 0;
+}
+
+.main{
+    width: 1024px;
+    margin: 0 auto;
+    background-color: white;
+    border: 1px dotted rosybrown;
+}
+
+.header{
+
+    width: 900px;
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large;
+    color: darkred;
+}
+
+.footer{
+    clear: both;
+    width: calc(100% - 40px);
+    font-size: small;
+    text-align: center;
+    padding: 20px;
+    border: 1px dotted rosybrown;
+}
+
+.content{
+    padding: 10px;
+
+    border: 1px dotted rosybrown;
+}
+
+.menu{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    align-content: center;
+}
+
+a.l_menuitem{
+
+    color: white;
+    text-decoration: none;
+    font-weight: normal;
+}
+
+.menuitem{
+    width: 200px;
+    margin-left: 50px;
+    padding: 10px;
+    background-color: #ba9cde;
+    color: white;
+    font-weight: bold;
+}
+
+.mainProduct{
+    border: solid 1px;
+    background-color: antiquewhite;
+}
+
+.mtable{
+    margin-left: 30px;
+}
+
+.auth{
+    border: 1px solid chocolate;
+    margin: auto;
+}
+
+.tdhead{
+    border: 1px dotted #ba9cde;
+    text-align: center;
+    font-weight: bold;
+}
+
+.error{
+    font-weight: bold;
+    color: red;
+    text-align: center;
+    padding: 10px;
+    width: calc(100% - 40px);
+    margin: 10px;
+    background-color: moccasin;
+}
+
+div#txtuppg {
+
+    position: relative;
+
+}.txtuppg {
+
+     position: absolute;
+
+     top: 50%;
+
+     left: 65px;
+
+     text-transform: uppercase;
+
+     color: #8a1f7d;
+
+    font-size: xxx-large;
+
+     padding: 10px;
+
+     text-align: center;
+
+
+ }
